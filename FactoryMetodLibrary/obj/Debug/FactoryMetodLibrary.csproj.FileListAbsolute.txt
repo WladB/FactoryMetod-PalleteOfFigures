@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\FactoryMethodPallete\FactoryMetodLibrary\obj\Debug\FactoryMetodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FactoryMethodPallete\FactoryMetodLibrary\bin\Debug\FactoryMetodLibrary.dll
+C:\Users\User\source\repos\FactoryMethodPallete\FactoryMetodLibrary\bin\Debug\FactoryMetodLibrary.pdb
+C:\Users\User\source\repos\FactoryMethodPallete\FactoryMetodLibrary\obj\Debug\FactoryMetodLibrary.dll
+C:\Users\User\source\repos\FactoryMethodPallete\FactoryMetodLibrary\obj\Debug\FactoryMetodLibrary.pdb
